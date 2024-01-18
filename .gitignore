@@ -1,0 +1,11 @@
+# package directories
+node_modules
+.esbuild
+
+# Serverless directories
+.serverless
+dist
+
+# Others
+keys.txt
+result.csv
