@@ -1,13 +1,13 @@
 {
-    "recommendations": [
-      "dbaeumer.vscode-eslint",
-      "esbenp.prettier-vscode",
-      "wayou.vscode-todo-highlight",
-      "gruntfuggly.todo-tree",
-      "firsttris.vscode-jest-runner",
-      "amatiasq.sort-imports",
-      "eamodio.gitlens",
-      "github.vscode-github-actions"
-    ]
-  }
-  
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "firsttris.vscode-jest-runner",
+    "amatiasq.sort-imports",
+    "eamodio.gitlens",
+    "github.vscode-github-actions",
+    "ms-vsliveshare.vsliveshare"
+  ]
+}
