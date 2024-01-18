@@ -1,7 +1,7 @@
 {
-  "name": "jigcar-technical-test",
+  "name": "mars-rover-kata",
   "version": "1.0.0",
-  "description": "Technical test",
+  "description": "Mars rover kata",
   "private": "true",
   "scripts": {
     "local": "ts-node src/example.ts",
